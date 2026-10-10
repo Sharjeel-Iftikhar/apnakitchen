@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" width="800" height="1000">
+<defs>
+  <linearGradient id="floor-classic-white-dinner-set-0" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#E2DED8"/>
+    <stop offset="0.62" stop-color="#E2DED8"/>
+    <stop offset="0.62" stop-color="#d8d4ce"/>
+    <stop offset="1" stop-color="#d0ccc6"/>
+  </linearGradient>
+  <radialGradient id="shadow" cx="0.5" cy="0.5" r="0.5">
+    <stop offset="0" stop-color="#000" stop-opacity="0.22"/>
+    <stop offset="1" stop-color="#000" stop-opacity="0"/>
+  </radialGradient>
+  <linearGradient id="glaze-classic-white-dinner-set-0" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#dddbd6"/>
+    <stop offset="0.35" stop-color="#ffffff"/>
+    <stop offset="0.7" stop-color="#F7F5F0"/>
+    <stop offset="1" stop-color="#dddbd6"/>
+  </linearGradient>
+</defs><defs><linearGradient id="gz21" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#dddbd6"/><stop offset="0.35" stop-color="#ffffff"/><stop offset="0.7" stop-color="#F7F5F0"/><stop offset="1" stop-color="#dddbd6"/></linearGradient></defs>
+<rect width="800" height="1000" fill="url(#floor-classic-white-dinner-set-0)"/><ellipse cx="400" cy="728" rx="297.6" ry="20" fill="url(#shadow)"/><ellipse cx="400" cy="720" rx="240" ry="52.8" fill="#e1dfda"/>
+          <ellipse cx="400" cy="714" rx="240" ry="52.8" fill="#fbf9f4"/><ellipse cx="400" cy="704" rx="240" ry="52.8" fill="#e1dfda"/>
+          <ellipse cx="400" cy="698" rx="240" ry="52.8" fill="#fbf9f4"/><ellipse cx="400" cy="688" rx="240" ry="52.8" fill="#e1dfda"/>
+          <ellipse cx="400" cy="682" rx="240" ry="52.8" fill="#fbf9f4"/><ellipse cx="400" cy="672" rx="240" ry="52.8" fill="#e1dfda"/>
+          <ellipse cx="400" cy="666" rx="240" ry="52.8" fill="#fbf9f4"/><ellipse cx="400" cy="656" rx="240" ry="52.8" fill="#e1dfda"/>
+          <ellipse cx="400" cy="650" rx="240" ry="52.8" fill="#fbf9f4"/><ellipse cx="400" cy="640" rx="240" ry="52.8" fill="#e1dfda"/>
+          <ellipse cx="400" cy="634" rx="240" ry="52.8" fill="#fffffe"/><ellipse cx="400" cy="634" rx="144" ry="29.759999999999998" fill="#f3f1ec"/><ellipse cx="400" cy="606" rx="148.8" ry="18" fill="url(#shadow)"/>
+  <path d="M 280 500 C 280 575, 347.2 592, 361.6 592
+           L 366.4 600 L 433.6 600 L 438.4 592
+           C 452.8 592, 520 575, 520 500 Z" fill="url(#gz21)"/>
+  
+  <ellipse cx="400" cy="500" rx="120" ry="21.599999999999998" fill="#ffffff"/>
+  <ellipse cx="400" cy="503" rx="110" ry="18" fill="#dbd9d4"/></svg>

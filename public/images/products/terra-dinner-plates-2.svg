@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" width="800" height="1000">
+<defs>
+  <linearGradient id="floor-terra-dinner-plates-1" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#E9E1D4"/>
+    <stop offset="0.62" stop-color="#E9E1D4"/>
+    <stop offset="0.62" stop-color="#dfd7ca"/>
+    <stop offset="1" stop-color="#d7cfc2"/>
+  </linearGradient>
+  <radialGradient id="shadow" cx="0.5" cy="0.5" r="0.5">
+    <stop offset="0" stop-color="#000" stop-opacity="0.22"/>
+    <stop offset="1" stop-color="#000" stop-opacity="0"/>
+  </radialGradient>
+  <linearGradient id="glaze-terra-dinner-plates-1" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#a65635"/>
+    <stop offset="0.35" stop-color="#d68665"/>
+    <stop offset="0.7" stop-color="#C0704F"/>
+    <stop offset="1" stop-color="#a65635"/>
+  </linearGradient>
+</defs><defs></defs>
+<rect width="800" height="1000" fill="url(#floor-terra-dinner-plates-1)"/><ellipse cx="400" cy="728" rx="291.4" ry="20" fill="url(#shadow)"/><ellipse cx="400" cy="720" rx="235" ry="51.7" fill="#aa5a39"/>
+          <ellipse cx="400" cy="714" rx="235" ry="51.7" fill="#c47453"/><ellipse cx="400" cy="704" rx="235" ry="51.7" fill="#aa5a39"/>
+          <ellipse cx="400" cy="698" rx="235" ry="51.7" fill="#c47453"/><ellipse cx="400" cy="688" rx="235" ry="51.7" fill="#aa5a39"/>
+          <ellipse cx="400" cy="682" rx="235" ry="51.7" fill="#c47453"/><ellipse cx="400" cy="672" rx="235" ry="51.7" fill="#aa5a39"/>
+          <ellipse cx="400" cy="666" rx="235" ry="51.7" fill="#c47453"/><ellipse cx="400" cy="656" rx="235" ry="51.7" fill="#aa5a39"/>
+          <ellipse cx="400" cy="650" rx="235" ry="51.7" fill="#c47453"/><ellipse cx="400" cy="640" rx="235" ry="51.7" fill="#aa5a39"/>
+          <ellipse cx="400" cy="634" rx="235" ry="51.7" fill="#ce7e5d"/><ellipse cx="400" cy="634" rx="141" ry="29.14" fill="#bc6c4b"/></svg>

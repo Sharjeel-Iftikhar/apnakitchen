@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" width="800" height="1000">
+<defs>
+  <linearGradient id="floor-sage-serving-bowls-1" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#E2DED8"/>
+    <stop offset="0.62" stop-color="#E2DED8"/>
+    <stop offset="0.62" stop-color="#d8d4ce"/>
+    <stop offset="1" stop-color="#d0ccc6"/>
+  </linearGradient>
+  <radialGradient id="shadow" cx="0.5" cy="0.5" r="0.5">
+    <stop offset="0" stop-color="#000" stop-opacity="0.22"/>
+    <stop offset="1" stop-color="#000" stop-opacity="0"/>
+  </radialGradient>
+  <linearGradient id="glaze-sage-serving-bowls-1" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#839074"/>
+    <stop offset="0.35" stop-color="#b3c0a4"/>
+    <stop offset="0.7" stop-color="#9DAA8E"/>
+    <stop offset="1" stop-color="#839074"/>
+  </linearGradient>
+</defs><defs></defs>
+<rect width="800" height="1000" fill="#E2DED8"/>
+  <circle cx="412" cy="516" r="250" fill="#000" opacity="0.12"/>
+  <circle cx="400" cy="500" r="250" fill="#abb89c"/>
+  <circle cx="400" cy="500" r="220" fill="#8d9a7e"/>
+  <circle cx="380" cy="480" r="137.5" fill="#95a286"/></svg>

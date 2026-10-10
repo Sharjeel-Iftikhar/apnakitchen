@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" width="800" height="1000">
+<defs>
+  <linearGradient id="floor-espresso-cups-1" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#E9E1D4"/>
+    <stop offset="0.62" stop-color="#E9E1D4"/>
+    <stop offset="0.62" stop-color="#dfd7ca"/>
+    <stop offset="1" stop-color="#d7cfc2"/>
+  </linearGradient>
+  <radialGradient id="shadow" cx="0.5" cy="0.5" r="0.5">
+    <stop offset="0" stop-color="#000" stop-opacity="0.22"/>
+    <stop offset="1" stop-color="#000" stop-opacity="0"/>
+  </radialGradient>
+  <linearGradient id="glaze-espresso-cups-1" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#d8d3c9"/>
+    <stop offset="0.35" stop-color="#fffff9"/>
+    <stop offset="0.7" stop-color="#F2EDE3"/>
+    <stop offset="1" stop-color="#d8d3c9"/>
+  </linearGradient>
+</defs><defs><linearGradient id="gz16" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#d8d3c9"/><stop offset="0.35" stop-color="#fffff9"/><stop offset="0.7" stop-color="#F2EDE3"/><stop offset="1" stop-color="#d8d3c9"/></linearGradient></defs>
+<rect width="800" height="1000" fill="url(#floor-espresso-cups-1)"/><ellipse cx="400" cy="728" rx="204" ry="20" fill="url(#shadow)"/>
+  <ellipse cx="400" cy="720" rx="170" ry="40.8" fill="#ded9cf"/>
+  <ellipse cx="400" cy="714" rx="170" ry="40.8" fill="#fffdf3"/>
+  <ellipse cx="400" cy="714" rx="106.25" ry="23.8" fill="#ece7dd"/>
+  
+  <path d="M 496 613.28 C 584 608.32, 584 682.72, 496 675.28"
+        stroke="#e4dfd5" stroke-width="24" fill="none" stroke-linecap="round"/>
+  <path d="M 300 586 L 304 696 Q 306 710 322 710 L 478 710 Q 494 710 496 696 L 500 586 Z" fill="url(#gz16)"/>
+  
+  <ellipse cx="400" cy="586" rx="100" ry="20" fill="#fffff7"/>
+  <ellipse cx="400" cy="588" rx="91" ry="16" fill="#d0cbc1"/></svg>

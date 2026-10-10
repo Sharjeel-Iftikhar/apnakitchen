@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" width="800" height="1000">
+<defs>
+  <linearGradient id="floor-oval-serving-platter-1" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#EFE8DC"/>
+    <stop offset="0.62" stop-color="#EFE8DC"/>
+    <stop offset="0.62" stop-color="#e5ded2"/>
+    <stop offset="1" stop-color="#ddd6ca"/>
+  </linearGradient>
+  <radialGradient id="shadow" cx="0.5" cy="0.5" r="0.5">
+    <stop offset="0" stop-color="#000" stop-opacity="0.22"/>
+    <stop offset="1" stop-color="#000" stop-opacity="0"/>
+  </radialGradient>
+  <linearGradient id="glaze-oval-serving-platter-1" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#dddbd6"/>
+    <stop offset="0.35" stop-color="#ffffff"/>
+    <stop offset="0.7" stop-color="#F7F5F0"/>
+    <stop offset="1" stop-color="#dddbd6"/>
+  </linearGradient>
+</defs><defs></defs>
+<rect width="800" height="1000" fill="#EFE8DC"/>
+  <ellipse cx="414" cy="518" rx="280" ry="330" fill="#000" opacity="0.10"/>
+  <ellipse cx="400" cy="500" rx="280" ry="330" fill="#fffffa"/>
+  
+  <ellipse cx="400" cy="500" rx="207.2" ry="217.8" fill="#f1efea"/>
+  <path d="M 176 401 A 252 297 0 0 1 344 216.2" stroke="#fff" stroke-width="8" fill="none" opacity="0.3" stroke-linecap="round"/></svg>

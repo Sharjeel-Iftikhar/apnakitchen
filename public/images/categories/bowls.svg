@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" width="800" height="1000">
+<defs>
+  <linearGradient id="floor-bowls" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#EFE8DC"/>
+    <stop offset="0.62" stop-color="#EFE8DC"/>
+    <stop offset="0.62" stop-color="#e5ded2"/>
+    <stop offset="1" stop-color="#ddd6ca"/>
+  </linearGradient>
+  <radialGradient id="shadow" cx="0.5" cy="0.5" r="0.5">
+    <stop offset="0" stop-color="#000" stop-opacity="0.22"/>
+    <stop offset="1" stop-color="#000" stop-opacity="0"/>
+  </radialGradient>
+  <linearGradient id="glaze-bowls" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#839074"/>
+    <stop offset="0.35" stop-color="#b3c0a4"/>
+    <stop offset="0.7" stop-color="#9DAA8E"/>
+    <stop offset="1" stop-color="#839074"/>
+  </linearGradient>
+</defs><defs><linearGradient id="gz28" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#839074"/><stop offset="0.35" stop-color="#b3c0a4"/><stop offset="0.7" stop-color="#9DAA8E"/><stop offset="1" stop-color="#839074"/></linearGradient></defs>
+<rect width="800" height="1000" fill="url(#floor-bowls)"/><ellipse cx="400" cy="726" rx="260.4" ry="18" fill="url(#shadow)"/>
+  <path d="M 190 520 C 190 670, 307.6 712, 332.8 712
+           L 341.2 720 L 458.8 720 L 467.2 712
+           C 492.4 712, 610 670, 610 520 Z" fill="url(#gz28)"/>
+  
+  <ellipse cx="400" cy="520" rx="210" ry="37.8" fill="#b3c0a4"/>
+  <ellipse cx="400" cy="523" rx="200" ry="31.5" fill="#818e72"/></svg>

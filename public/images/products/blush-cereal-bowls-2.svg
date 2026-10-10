@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" width="800" height="1000">
+<defs>
+  <linearGradient id="floor-blush-cereal-bowls-1" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#E2DED8"/>
+    <stop offset="0.62" stop-color="#E2DED8"/>
+    <stop offset="0.62" stop-color="#d8d4ce"/>
+    <stop offset="1" stop-color="#d0ccc6"/>
+  </linearGradient>
+  <radialGradient id="shadow" cx="0.5" cy="0.5" r="0.5">
+    <stop offset="0" stop-color="#000" stop-opacity="0.22"/>
+    <stop offset="1" stop-color="#000" stop-opacity="0"/>
+  </radialGradient>
+  <linearGradient id="glaze-blush-cereal-bowls-1" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#bf9386"/>
+    <stop offset="0.35" stop-color="#efc3b6"/>
+    <stop offset="0.7" stop-color="#D9ADA0"/>
+    <stop offset="1" stop-color="#bf9386"/>
+  </linearGradient>
+</defs><defs></defs>
+<rect width="800" height="1000" fill="#E2DED8"/>
+  <circle cx="412" cy="516" r="230" fill="#000" opacity="0.12"/>
+  <circle cx="400" cy="500" r="230" fill="#e7bbae"/>
+  <circle cx="400" cy="500" r="202.4" fill="#c99d90"/>
+  <circle cx="381.6" cy="481.6" r="126.50000000000001" fill="#d1a598"/></svg>

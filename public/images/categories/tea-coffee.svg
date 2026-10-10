@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" width="800" height="1000">
+<defs>
+  <linearGradient id="floor-tea-coffee" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#EBDAD2"/>
+    <stop offset="0.62" stop-color="#EBDAD2"/>
+    <stop offset="0.62" stop-color="#e1d0c8"/>
+    <stop offset="1" stop-color="#d9c8c0"/>
+  </linearGradient>
+  <radialGradient id="shadow" cx="0.5" cy="0.5" r="0.5">
+    <stop offset="0" stop-color="#000" stop-opacity="0.22"/>
+    <stop offset="1" stop-color="#000" stop-opacity="0"/>
+  </radialGradient>
+  <linearGradient id="glaze-tea-coffee" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#dddbd6"/>
+    <stop offset="0.35" stop-color="#ffffff"/>
+    <stop offset="0.7" stop-color="#F7F5F0"/>
+    <stop offset="1" stop-color="#dddbd6"/>
+  </linearGradient>
+</defs><defs><linearGradient id="gz31" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#dddbd6"/><stop offset="0.35" stop-color="#ffffff"/><stop offset="0.7" stop-color="#F7F5F0"/><stop offset="1" stop-color="#dddbd6"/></linearGradient></defs>
+<rect width="800" height="1000" fill="url(#floor-tea-coffee)"/><ellipse cx="400" cy="748" rx="304" ry="20" fill="url(#shadow)"/>
+  <path d="M 240.4 589.52 C 126.40000000000003 562.16, 103.59999999999997 480.08000000000004, 58 460.92800000000005"
+        stroke="#efede8" stroke-width="34.199999999999996" fill="none" stroke-linecap="round"/>
+  <path d="M 544.4 521.12 C 696.4000000000001 507.44000000000005, 696.4000000000001 685.28, 536.8 663.392"
+        stroke="#e7e5e0" stroke-width="30.400000000000002" fill="none" stroke-linecap="round"/>
+  <ellipse cx="400" cy="616.88" rx="190" ry="123.11999999999999" fill="url(#gz31)"/>
+  <path d="M 213.8 603.2 Q 400 636.032 586.2 603.2" stroke="#3E5A8A" stroke-width="6" fill="none"/>
+  <ellipse cx="400" cy="501.968" rx="98.8" ry="22.8" fill="#ffffff"/>
+  <ellipse cx="400" cy="471.872" rx="19" ry="17.099999999999998" fill="#edebe6"/>
+  <rect x="324" y="732" width="152" height="8" rx="3" fill="#dfddd8"/></svg>

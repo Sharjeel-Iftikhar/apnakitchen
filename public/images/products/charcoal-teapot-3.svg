@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" width="800" height="1000">
+<defs>
+  <linearGradient id="floor-charcoal-teapot-2" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#E2DED8"/>
+    <stop offset="0.62" stop-color="#E2DED8"/>
+    <stop offset="0.62" stop-color="#d8d4ce"/>
+    <stop offset="1" stop-color="#d0ccc6"/>
+  </linearGradient>
+  <radialGradient id="shadow" cx="0.5" cy="0.5" r="0.5">
+    <stop offset="0" stop-color="#000" stop-opacity="0.22"/>
+    <stop offset="1" stop-color="#000" stop-opacity="0"/>
+  </radialGradient>
+  <linearGradient id="glaze-charcoal-teapot-2" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#302d2a"/>
+    <stop offset="0.35" stop-color="#605d5a"/>
+    <stop offset="0.7" stop-color="#4A4744"/>
+    <stop offset="1" stop-color="#302d2a"/>
+  </linearGradient>
+</defs><defs><linearGradient id="gz26" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#302d2a"/><stop offset="0.35" stop-color="#605d5a"/><stop offset="0.7" stop-color="#4A4744"/><stop offset="1" stop-color="#302d2a"/></linearGradient></defs>
+<rect width="800" height="1000" fill="url(#floor-charcoal-teapot-2)"/><ellipse cx="400" cy="748" rx="288" ry="20" fill="url(#shadow)"/>
+  <path d="M 248.8 597.44 C 140.8 571.52, 119.19999999999999 493.76, 76 475.616"
+        stroke="#423f3c" stroke-width="32.4" fill="none" stroke-linecap="round"/>
+  <path d="M 536.8 532.64 C 680.8 519.6800000000001, 680.8 688.1600000000001, 529.6 667.424"
+        stroke="#3a3734" stroke-width="28.8" fill="none" stroke-linecap="round"/>
+  <ellipse cx="400" cy="623.36" rx="180" ry="116.64" fill="url(#gz26)"/>
+  
+  <ellipse cx="400" cy="514.496" rx="93.60000000000001" ry="21.599999999999998" fill="#5c5956"/>
+  <ellipse cx="400" cy="485.98400000000004" rx="18" ry="16.2" fill="#403d3a"/>
+  <rect x="328" y="732" width="144" height="8" rx="3" fill="#322f2c"/></svg>

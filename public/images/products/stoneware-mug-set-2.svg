@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" width="800" height="1000">
+<defs>
+  <linearGradient id="floor-stoneware-mug-set-1" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#E9E1D4"/>
+    <stop offset="0.62" stop-color="#E9E1D4"/>
+    <stop offset="0.62" stop-color="#dfd7ca"/>
+    <stop offset="1" stop-color="#d7cfc2"/>
+  </linearGradient>
+  <radialGradient id="shadow" cx="0.5" cy="0.5" r="0.5">
+    <stop offset="0" stop-color="#000" stop-opacity="0.22"/>
+    <stop offset="1" stop-color="#000" stop-opacity="0"/>
+  </radialGradient>
+  <linearGradient id="glaze-stoneware-mug-set-1" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#302d2a"/>
+    <stop offset="0.35" stop-color="#605d5a"/>
+    <stop offset="0.7" stop-color="#4A4744"/>
+    <stop offset="1" stop-color="#302d2a"/>
+  </linearGradient>
+</defs><defs><linearGradient id="gz7" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#302d2a"/><stop offset="0.35" stop-color="#605d5a"/><stop offset="0.7" stop-color="#4A4744"/><stop offset="1" stop-color="#302d2a"/></linearGradient></defs>
+<rect width="800" height="1000" fill="url(#floor-stoneware-mug-set-1)"/><ellipse cx="420" cy="746" rx="208" ry="16" fill="url(#shadow)"/>
+  <path d="M 526 506 C 639.2 494, 639.2 674, 526 656"
+        stroke="#3c3936" stroke-width="31.2" fill="none" stroke-linecap="round"/>
+  <path d="M 270 440 L 274 726 Q 276 740 292 740 L 508 740 Q 524 740 526 726 L 530 440 Z" fill="url(#gz7)"/>
+  
+  <ellipse cx="400" cy="440" rx="130" ry="26" fill="#5e5b58"/>
+  <ellipse cx="400" cy="442" rx="121" ry="20.8" fill="#282522"/></svg>

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" width="800" height="1000">
+<defs>
+  <linearGradient id="floor-blush-cereal-bowls-2" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#EFE8DC"/>
+    <stop offset="0.62" stop-color="#EFE8DC"/>
+    <stop offset="0.62" stop-color="#e5ded2"/>
+    <stop offset="1" stop-color="#ddd6ca"/>
+  </linearGradient>
+  <radialGradient id="shadow" cx="0.5" cy="0.5" r="0.5">
+    <stop offset="0" stop-color="#000" stop-opacity="0.22"/>
+    <stop offset="1" stop-color="#000" stop-opacity="0"/>
+  </radialGradient>
+  <linearGradient id="glaze-blush-cereal-bowls-2" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#bf9386"/>
+    <stop offset="0.35" stop-color="#efc3b6"/>
+    <stop offset="0.7" stop-color="#D9ADA0"/>
+    <stop offset="1" stop-color="#bf9386"/>
+  </linearGradient>
+</defs><defs><linearGradient id="gz20" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#bf9386"/><stop offset="0.35" stop-color="#efc3b6"/><stop offset="0.7" stop-color="#D9ADA0"/><stop offset="1" stop-color="#bf9386"/></linearGradient></defs>
+<rect width="800" height="1000" fill="url(#floor-blush-cereal-bowls-2)"/><ellipse cx="400" cy="736" rx="235.6" ry="18" fill="url(#shadow)"/>
+  <path d="M 210 510 C 210 675, 316.4 722, 339.2 722
+           L 346.8 730 L 453.2 730 L 460.8 722
+           C 483.6 722, 590 675, 590 510 Z" fill="url(#gz20)"/>
+  
+  <ellipse cx="400" cy="510" rx="190" ry="34.199999999999996" fill="#efc3b6"/>
+  <ellipse cx="400" cy="513" rx="180" ry="28.5" fill="#bd9184"/></svg>

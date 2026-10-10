@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" width="800" height="1000">
+<defs>
+  <linearGradient id="floor-indigo-pasta-bowls-1" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#E9E1D4"/>
+    <stop offset="0.62" stop-color="#E9E1D4"/>
+    <stop offset="0.62" stop-color="#dfd7ca"/>
+    <stop offset="1" stop-color="#d7cfc2"/>
+  </linearGradient>
+  <radialGradient id="shadow" cx="0.5" cy="0.5" r="0.5">
+    <stop offset="0" stop-color="#000" stop-opacity="0.22"/>
+    <stop offset="1" stop-color="#000" stop-opacity="0"/>
+  </radialGradient>
+  <linearGradient id="glaze-indigo-pasta-bowls-1" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#2a3651"/>
+    <stop offset="0.35" stop-color="#5a6681"/>
+    <stop offset="0.7" stop-color="#44506B"/>
+    <stop offset="1" stop-color="#2a3651"/>
+  </linearGradient>
+</defs><defs><linearGradient id="gz13" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#2a3651"/><stop offset="0.35" stop-color="#5a6681"/><stop offset="0.7" stop-color="#44506B"/><stop offset="1" stop-color="#2a3651"/></linearGradient></defs>
+<rect width="800" height="1000" fill="url(#floor-indigo-pasta-bowls-1)"/><ellipse cx="400" cy="726" rx="272.8" ry="18" fill="url(#shadow)"/>
+  <path d="M 180 570 C 180 682.5, 303.2 712, 329.6 712
+           L 338.4 720 L 461.6 720 L 470.4 712
+           C 496.8 712, 620 682.5, 620 570 Z" fill="url(#gz13)"/>
+  
+  <ellipse cx="400" cy="570" rx="220" ry="39.6" fill="#5a6681"/>
+  <ellipse cx="400" cy="573" rx="210" ry="33" fill="#28344f"/></svg>

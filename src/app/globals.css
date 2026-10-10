@@ -1,0 +1,60 @@
+@import "tailwindcss";
+
+/* ---------- Design tokens (warm minimal) ---------- */
+@theme {
+  --color-cream: #f7f3ec;
+  --color-sand: #efe8dc;
+  --color-sand-dark: #e5dccd;
+  --color-ink: #1f1c19;
+  --color-ink-soft: #3a3530;
+  --color-muted: #6b645c;
+  --color-line: #e3dbcf;
+  --color-terracotta: #a8553a;
+  --color-terracotta-dark: #8c4530;
+  --color-sage: #6f7d63;
+  --color-success: #3f6b4a;
+  --color-danger: #b3412f;
+
+  --font-sans: var(--font-inter), ui-sans-serif, system-ui, sans-serif;
+  --font-serif: var(--font-cormorant), ui-serif, Georgia, serif;
+
+  --tracking-label: 0.14em;
+
+  --animate-fade-in: fade-in 0.25s ease-out;
+  --animate-slide-in: slide-in 0.3s cubic-bezier(0.22, 1, 0.36, 1);
+
+  @keyframes fade-in {
+    from { opacity: 0; }
+    to { opacity: 1; }
+  }
+  @keyframes slide-in {
+    from { transform: translateX(100%); }
+    to { transform: translateX(0); }
+  }
+}
+
+@layer base {
+  html {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  body {
+    @apply bg-cream text-ink font-sans;
+  }
+  h1, h2, h3, h4 {
+    @apply font-serif font-medium tracking-tight;
+  }
+  ::selection {
+    @apply bg-terracotta text-cream;
+  }
+  :focus-visible {
+    @apply outline-2 outline-offset-2 outline-terracotta;
+  }
+}
+
+@layer components {
+  /* Small uppercase label used above headings */
+  .eyebrow {
+    @apply text-[11px] font-medium uppercase tracking-(--tracking-label) text-muted;
+  }
+}

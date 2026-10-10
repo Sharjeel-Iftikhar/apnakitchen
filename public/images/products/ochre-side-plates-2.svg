@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" width="800" height="1000">
+<defs>
+  <linearGradient id="floor-ochre-side-plates-1" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#E2DED8"/>
+    <stop offset="0.62" stop-color="#E2DED8"/>
+    <stop offset="0.62" stop-color="#d8d4ce"/>
+    <stop offset="1" stop-color="#d0ccc6"/>
+  </linearGradient>
+  <radialGradient id="shadow" cx="0.5" cy="0.5" r="0.5">
+    <stop offset="0" stop-color="#000" stop-opacity="0.22"/>
+    <stop offset="1" stop-color="#000" stop-opacity="0"/>
+  </radialGradient>
+  <linearGradient id="glaze-ochre-side-plates-1" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#af7d31"/>
+    <stop offset="0.35" stop-color="#dfad61"/>
+    <stop offset="0.7" stop-color="#C9974B"/>
+    <stop offset="1" stop-color="#af7d31"/>
+  </linearGradient>
+</defs><defs></defs>
+<rect width="800" height="1000" fill="url(#floor-ochre-side-plates-1)"/><ellipse cx="400" cy="728" rx="235.6" ry="20" fill="url(#shadow)"/><ellipse cx="400" cy="720" rx="190" ry="41.8" fill="#b38135"/>
+          <ellipse cx="400" cy="714" rx="190" ry="41.8" fill="#cd9b4f"/><ellipse cx="400" cy="704" rx="190" ry="41.8" fill="#b38135"/>
+          <ellipse cx="400" cy="698" rx="190" ry="41.8" fill="#cd9b4f"/><ellipse cx="400" cy="688" rx="190" ry="41.8" fill="#b38135"/>
+          <ellipse cx="400" cy="682" rx="190" ry="41.8" fill="#cd9b4f"/><ellipse cx="400" cy="672" rx="190" ry="41.8" fill="#b38135"/>
+          <ellipse cx="400" cy="666" rx="190" ry="41.8" fill="#cd9b4f"/><ellipse cx="400" cy="656" rx="190" ry="41.8" fill="#b38135"/>
+          <ellipse cx="400" cy="650" rx="190" ry="41.8" fill="#d7a559"/><ellipse cx="400" cy="650" rx="114" ry="23.56" fill="#c59347"/></svg>
