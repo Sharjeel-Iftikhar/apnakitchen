@@ -56,7 +56,7 @@ export const useCart = create<CartState>()(
       closeCart: () => set({ isOpen: false }),
     }),
     {
-      name: "maison-cart",
+      name: "apnakitchen-cart",
       storage: createJSONStorage(() => localStorage),
       partialize: (state) => ({ items: state.items }), // don't persist drawer open state
     },

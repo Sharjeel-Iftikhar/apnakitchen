@@ -2,18 +2,19 @@
 // "Site settings" document in Sanity so the client can edit it.
 
 export const siteConfig = {
-  name: "Maison Crockery",
+  name: "Apna Kitchen",
   tagline: "Tableware for everyday rituals",
   description:
     "Handpicked dinner sets, plates, bowls, mugs and serveware — delivered across Pakistan with cash on delivery.",
-  url: "https://www.yourdomain.com",
+  url: "https://www.apnakitchen.pk",
   contact: {
-    phone: "+92 300 0000000",
-    whatsapp: "923000000000", // digits only, used in wa.me links
-    email: "hello@yourdomain.com",
-    address: "Showroom address, City, Pakistan",
-    hours: "Mon – Sat, 10am – 8pm",
+    phone: "+92 324 7617290",
+    whatsapp: "923247617290", // digits only, used in wa.me links
+    email: "hello@apnakitchen.pk", // receives mail once Cloudflare Email Routing is on
+    address: "Gujranwala, Pakistan",
+    hours: "Sat – Thu, 10am – 8pm",
   },
+  // TODO: replace with the real profile links when the pages are ready.
   social: {
     instagram: "https://instagram.com/",
     facebook: "https://facebook.com/",

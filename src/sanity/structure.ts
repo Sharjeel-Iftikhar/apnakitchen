@@ -8,7 +8,7 @@ import { ORDER_STATUSES } from "./schemaTypes/order";
 // Studio sidebar: orders first (grouped by status), then the catalogue, then the homepage.
 export const structure: StructureResolver = (S) =>
   S.list()
-    .title("Maison Crockery")
+    .title("Apna Kitchen")
     .items([
       S.listItem()
         .title("Orders")

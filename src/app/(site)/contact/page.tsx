@@ -13,7 +13,7 @@ export default function ContactPage() {
   const rows = [
     { icon: Phone, label: "Phone", value: contact.phone, href: `tel:${contact.phone.replace(/\s/g, "")}` },
     { icon: Mail, label: "Email", value: contact.email, href: `mailto:${contact.email}` },
-    { icon: MapPin, label: "Showroom", value: contact.address },
+    { icon: MapPin, label: "Location", value: contact.address },
     { icon: Clock, label: "Hours", value: contact.hours },
   ];
 
